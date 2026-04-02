@@ -1,12 +1,22 @@
 # about
 Hi! 
-My nickname is Mark, and I am a system administrator with 7 years of experience across 2 companies and 3 different positions. Right now I decided to try my luck in DevOps field! 
+I'm Mark, a Systems Administrator with 7 years of experience across two companies and three different positions. I've handled day-to-day operations, troubleshooting, server maintenance, and user support in production environments. Now I'm actively transitioning into DevOps by building practical skills through my homelab and personal projects.
 
-# Ongoing project 
-Right now I am making a website for my photography hobby. I am using Astro, learning the way everything works. So far I have few working pages, and one of these days I will publish it 
+### Ongoing Project: Photography Portfolio Website
+I'm building a personal website to showcase my photography hobby.  
+- Built with **Astro** (learning modern frontend while keeping it lightweight and fast).  
+- Currently have several working pages; planning to publish soon.  
+- The entire site runs in a Docker container on my homelab.
+
+This project lets me practice full-stack deployment, containerization, and automation in a real (personal) use case.
 
 # My homelab
-Nothing flashy, just an old PC converted into server, that runs several composes, with different networks for DBs and front-facing apps, reverse proxy, and stuff like that. Nothing flashy, but it works pretty well!
+I run a home server on repurposed old hardware that reliably hosts multiple services. It includes:
+- Multiple Docker Compose setups with separated networks for databases and front-facing apps
+- Reverse proxy (Traefik) for clean routing
+- Secure access via VPN
+
+It's a practical, production-like environment on limited resources — great for learning stability, networking, and automation.
 
 ## Tech stacks that I am familiar with with and learning
 - Proxmox VE
@@ -22,6 +32,6 @@ Nothing flashy, just an old PC converted into server, that runs several composes
 - Linux (There is never enough knowledge with it)
 - Terraform (Not a priority, but interesting) 
 
- 
+ This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
  
  :heavy_exclamation_mark: This page is under construstion :heavy_exclamation_mark:
