@@ -34,4 +34,4 @@ It's a practical, production-like environment on limited resources — great for
 
  This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
  
- :heavy_exclamation_mark: This page is under construstion :heavy_exclamation_mark:
+*(This page will be updated as I add projects)*
