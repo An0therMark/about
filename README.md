@@ -18,7 +18,7 @@ I run a home server on repurposed old hardware that reliably hosts multiple serv
 
 It's a practical, production-like environment on limited resources — great for learning stability, networking, and automation.
 
-## Tech stacks that I am familiar with with and learning
+## Tech stacks that I am familiar with with
 - Proxmox VE
 - Docker
 - Traefik
