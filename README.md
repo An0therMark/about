@@ -16,7 +16,7 @@ I run a home server on repurposed old hardware that reliably hosts multiple serv
 - Reverse proxy (Traefik) for clean routing
 - Secure access via VPN
 
-It's started as a media server, but soon I wanted to access it from anywhere, so I figure out how to make it happen. Now it's my own little cloud with everything I might need
+It's started as a media server, but soon I realized, that I want to access it from anywhere, so I figure out how to make it happen. Now it's my own little cloud with everything I might need
 
 ## Tech stacks that I am familiar with with
 - Proxmox VE
