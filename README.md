@@ -15,6 +15,7 @@ I run a home server on repurposed old hardware that reliably hosts multiple serv
 - Multiple Docker Compose setups with separated networks for databases and front-facing apps
 - Reverse proxy (Traefik) for clean routing
 - Secure access via VPN
+- LocalAI server with llama cpp backend, for connection to VScodium
 
 It's started as a media server, but soon I realized, that I want to access it from anywhere, so I figure out how to make it happen. Now it's my own little cloud with everything I might need
 
@@ -30,7 +31,9 @@ It's started as a media server, but soon I realized, that I want to access it fr
 - Ansible (Only made few playbooks for VMs)
 - Kubernetes (Played around with minikube)
 - Linux (There is never enough knowledge with it)
-- Terraform (Not a priority, but interesting) 
+- Terraform (Not a priority, but interesting)
+- llama cpp (setting up local AI)
+- AI agents
 
  This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
  
