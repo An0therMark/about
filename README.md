@@ -19,7 +19,7 @@ I run a home server on repurposed old hardware that reliably hosts multiple serv
 
 It's started as a media server, but soon I realized, that I want to access it from anywhere, so I figure out how to make it happen. Now it's my own little cloud with everything I might need
 
-<img width="1211" height="691" alt="homelabpng" src="https://github.com/user-attachments/assets/0752b970-487f-4788-b09d-9a34a73cf1d4" />
+<img width="1211" height="691" alt="homelab" src="https://github.com/user-attachments/assets/2e32f1cb-5c65-4b77-ab57-8defcebb5a8b" />
 
 As of not I have aroud 25 docker containers, some of which I decided to not show for privacy reasons.
 
