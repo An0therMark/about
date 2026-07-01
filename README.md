@@ -1,6 +1,6 @@
 # about
 Hi! 
-I'm Mark, a Systems Administrator with 7 years of experience across two companies and three different positions. I've handled day-to-day operations, troubleshooting, server maintenance, and user support in production environments. Now I'm actively transitioning into DevOps by building practical skills through my homelab and personal projects.
+I'm Mark, a Systems Administrator with 7 years of experience across two companies and three different positions. I've handled day-to-day operations, troubleshooting, server maintenance, and user support in production environments. Now I'm actively transitioning into DevOps/CloudOps by building practical skills through my homelab and personal projects.
 
 ### Ongoing Project: Photography Business Card Website
 I'm building a personal website to showcase my photography hobby, and host links to social media.  
