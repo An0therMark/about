@@ -45,7 +45,7 @@ As of not I have aroud 25 docker containers, some of which I decided to not show
  This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
 
  ## AWS and cloud
- As I thought about the best way to serve my website, I decided, that S3 bucket would be the best way. So I went to the AWS skill builder and went trough all the free courses I could find. I will publish certs they gave me here, bcause why not? 
+ As I thought about the best way to serve my website, I decided, that S3 bucket would be the most cost efficient way for static page. So I went to the AWS skill builder and went trough all the free courses I could find. I will publish certs they gave me here, bcause why not? 
 
 <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/b47aa102-6abb-4437-afda-fd0b3ab6a8bd" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/f60c7b1b-fb63-4381-bee6-e89c0a505d67" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c27db59a-2153-4bd9-a14d-3a89df4baf60" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c80c12e0-9248-4e53-8006-76f7e233f20c" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c579fed1-6f88-4aac-809e-722768f23ef3" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/a8f30d4f-8e28-4652-b902-a313a4169c85" />
 
