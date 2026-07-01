@@ -10,7 +10,7 @@ I'm building a personal website to showcase my photography hobby.
 
 This project lets me practice full-stack deployment, containerization, and automation in a real (personal) use case.
 
-Right now it is pusblished, and can be found on olddslr.ru
+Right now it is pusblished, and can be found on [olddslr.ru](https://olddslr.ru/)
 
 # My homelab
 I run a home server on repurposed old hardware that reliably hosts multiple services. It includes:
