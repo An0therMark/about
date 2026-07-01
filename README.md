@@ -10,6 +10,8 @@ I'm building a personal website to showcase my photography hobby.
 
 This project lets me practice full-stack deployment, containerization, and automation in a real (personal) use case.
 
+Right now it is pusblished, and can be found on olddslr.ru
+
 # My homelab
 I run a home server on repurposed old hardware that reliably hosts multiple services. It includes:
 - Multiple Docker Compose setups with separated networks for databases and front-facing apps
@@ -41,5 +43,13 @@ As of not I have aroud 25 docker containers, some of which I decided to not show
 - AI agents
 
  This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
+
+ ## AWS and cloud
+ As I thought about the best way to serve my website, I decided, that S3 bucket would be the best way. So I went to the AWS skill builder and went trough all the free courses I could find. I will publish certs they gave me here, bcause why not? 
+
+<img width="1090" height="839" alt="image" src="https://github.com/user-attachments/assets/b47aa102-6abb-4437-afda-fd0b3ab6a8bd" /> <img width="1090" height="843" alt="image" src="https://github.com/user-attachments/assets/f60c7b1b-fb63-4381-bee6-e89c0a505d67" /> <img width="1090" height="843" alt="image" src="https://github.com/user-attachments/assets/c27db59a-2153-4bd9-a14d-3a89df4baf60" />
+
+
+
  
 *(This page will be updated as I add projects)*
