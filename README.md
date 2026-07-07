@@ -6,7 +6,8 @@ I'm Mark, a Systems Administrator with 7 years of experience across two companie
 I'm building a personal website to showcase my photography hobby, and host links to social media.  
 - Built with **Astro** (learning modern frontend while keeping it lightweight and fast).  
 - Currently have several working pages; planning to expand on it as I need more features. 
-- The entire site runs on an S3 bucket. 
+- The entire site runs on an S3 bucket.
+- Deployed with a github actions, on every push on master branch.
 
 This project lets me practice full-stack deployment, containerization, and automation in a real (personal) use case.
 
@@ -40,6 +41,7 @@ As of not I have aroud 25 docker containers, some of which I decided to not show
 - Linux (There is never enough knowledge with it)
 - Terraform (Not a priority, but interesting)
 - llama cpp (setting up local AI)
+- CI/CD pipelines. So far I am learning GitHub actions, and already implemented that pipeline for my website
 - AI agents
 
  This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
