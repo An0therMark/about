@@ -6,7 +6,7 @@ I'm Mark, a Systems Administrator with 7 years of experience across two companie
 I'm building a personal website to showcase my photography hobby, and host links to social media.  
 - Built with **Astro** (learning modern frontend while keeping it lightweight and fast).  
 - Currently have several working pages; planning to expand on it as I need more features. 
-- The entire site runs on an S3 bucket.
+- The entire site runs in an S3 bucket.
 - Deployed with a github actions, on every push on master branch.
 
 This project lets me practice full-stack deployment, containerization, and automation in a real (personal) use case.
