@@ -24,7 +24,7 @@ It's started as a media server, but soon I realized, that I want to access it fr
 
 <img width="1211" height="691" alt="homelab" src="https://github.com/user-attachments/assets/2e32f1cb-5c65-4b77-ab57-8defcebb5a8b" />
 
-As of not I have aroud 25 docker containers, some of which I decided to not show for privacy reasons.
+As of now I have aroud 25 docker containers, some of which I decided to not show for privacy reasons.
 
 
 ## Tech stacks that I am familiar with
