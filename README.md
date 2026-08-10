@@ -1,4 +1,3 @@
-[AWS Net Arch.pdf](https://github.com/user-attachments/files/30899960/AWS.Net.Arch.pdf)
 # about
 Hi! 
 I'm Mark, a Systems Administrator with 7 years of experience across two companies and three different positions. I've handled day-to-day operations, troubleshooting, server maintenance, and user support in production environments. Now I'm actively transitioning into DevOps/CloudOps by building practical skills through my homelab and personal projects.
