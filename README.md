@@ -36,6 +36,7 @@ As of now I have aroud 25 docker containers, some of which I decided to not show
 - VPN
 
 ## What I am learning
+- Golang. I decided to rewrite my python script for photo organization automation in Go
 - Ansible (Only made few playbooks for VMs)
 - Kubernetes (Played around with minikube)
 - Linux (There is never enough knowledge with it)
