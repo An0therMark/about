@@ -1,6 +1,6 @@
 # about
 Hi! 
-I'm Mark, a Systems Administrator with 7 years of experience across two companies and three different positions. I've handled day-to-day operations, troubleshooting, server maintenance, and user support in production environments. Now I'm actively transitioning into DevOps/CloudOps by building practical skills through my homelab and personal projects.
+I'm Mark, a Systems Administrator with 8 years of experience across two companies and three different positions. I've handled day-to-day operations, troubleshooting, server maintenance, and user support in production environments. Now I'm actively transitioning into DevOps/CloudOps by building practical skills through my homelab and personal projects.
 
 ### Ongoing Project: Photography Business Card Website
 I'm building a personal website to showcase my photography hobby, and host links to social media.  
@@ -11,7 +11,7 @@ I'm building a personal website to showcase my photography hobby, and host links
 
 This project lets me practice full-stack deployment, containerization, and automation in a real (personal) use case.
 
-Right now it is pusblished, and can be found on [olddslr.ru](https://olddslr.ru/)
+Right now it is published, and can be found on [olddslr.ru](https://olddslr.ru/)
 
 # My homelab
 I run a home server on repurposed old hardware that reliably hosts multiple services. It includes:
@@ -24,7 +24,7 @@ It's started as a media server, but soon I realized, that I want to access it fr
 
 <img width="1211" height="691" alt="homelab" src="https://github.com/user-attachments/assets/2e32f1cb-5c65-4b77-ab57-8defcebb5a8b" />
 
-As of now I have aroud 25 docker containers, some of which I decided to not show for privacy reasons.
+As of now I have around 30 docker containers, some of which I decided to not show for privacy reasons.
 
 
 ## Tech stacks that I am familiar with
@@ -38,17 +38,17 @@ As of now I have aroud 25 docker containers, some of which I decided to not show
 ## What I am learning
 - Golang. I decided to rewrite my python script for photo organization automation in Go
 - Ansible (Only made few playbooks for VMs)
-- Kubernetes (Played around with minikube)
+- Kubernetes (Deployed Minicube in test evorenment
 - Linux (There is never enough knowledge with it)
 - Terraform (Not a priority, but interesting)
 - llama cpp (setting up local AI)
 - CI/CD pipelines. So far I am learning GitHub actions, and already implemented that pipeline for my website
 - AI agents
 
- This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
+This homelab and the photography site are my way of turning theoretical knowledge into hands-on experience. Always iterating and learning something new.
 
- ## AWS and cloud
- As I thought about the best way to serve my website, I decided, that S3 bucket would be the most cost efficient way for static page. So I went to the AWS skill builder and went trough all the free courses I could find. I will publish certs they gave me here, bcause why not? 
+## AWS and cloud
+As I thought about the best way to serve my website, I decided, that S3 bucket would be the most cost efficient way for static page. So I went to the AWS skill builder and went trough all the free courses I could find. I will publish certs they gave me here, because why not?
 
 <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/b47aa102-6abb-4437-afda-fd0b3ab6a8bd" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/f60c7b1b-fb63-4381-bee6-e89c0a505d67" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c27db59a-2153-4bd9-a14d-3a89df4baf60" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c80c12e0-9248-4e53-8006-76f7e233f20c" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/c579fed1-6f88-4aac-809e-722768f23ef3" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/a8f30d4f-8e28-4652-b902-a313a4169c85" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/d1f0e3eb-af85-405c-9170-032d6d9601c2" /> <img width="360" height="240" alt="image" src="https://github.com/user-attachments/assets/a188eb0b-3950-42cc-8de8-ea190bf68998" />
 
