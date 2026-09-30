@@ -4,7 +4,7 @@ I'm Mark, a Systems Administrator with 8 years of experience across two companie
 
 ### Ongoing Project: Photography Business Card Website
 I'm building a personal website to showcase my photography hobby, and host links to social media.  
-- Built with **Astro** (learning modern frontend while keeping it lightweight and fast).  
+- Built with **Astro** (learning modern frontend).  
 - Currently have several working pages; planning to expand on it as I need more features. 
 - Entire site runs in an S3 bucket.
 - Deployed with a github actions, on every push on master branch.
@@ -38,10 +38,11 @@ As of now I have around 30 docker containers, some of which I decided to not sho
 ## What I am learning
 - Golang. I decided to rewrite my python script for photo organization automation in Go
 - Ansible (Only made few playbooks for VMs)
-- Kubernetes (Deployed Minicube in test evorenment
+- Kubernetes (Deployed Minicube in test evorenment)
 - Linux (There is never enough knowledge with it)
 - Terraform (Not a priority, but interesting)
 - llama cpp (setting up local AI)
+- Google Cloud
 - CI/CD pipelines. So far I am learning GitHub actions, and already implemented that pipeline for my website
 - AI agents
 
