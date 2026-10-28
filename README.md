@@ -39,8 +39,8 @@ As of now I have around 30 docker containers, some of which I decided to not sho
 - Golang. I decided to rewrite my python script for photo organization automation in Go
 - Ansible (Only made few playbooks for VMs)
 - Kubernetes (Deployed Minicube in test evorenment)
+- Terraform (with proxmox provider. Have examples of my lab config in [repo for learning](https://github.com/An0therMark/learn-lab/tree/master/terraform))
 - Linux (There is never enough knowledge with it)
-- Terraform (Not a priority, but interesting)
 - llama cpp (setting up local AI)
 - Google Cloud
 - CI/CD pipelines. So far I am learning GitHub actions, and already implemented that pipeline for my website
